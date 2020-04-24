@@ -1,56 +1,198 @@
-#define TESLA_INIT_IMPL // If you have more than one file using the tesla header, only define this in the main one
-#include <tesla.hpp>    // The Tesla Header
+#define TESLA_INIT_IMPL
+#include <tesla.hpp>
 
+static Service g_dmntchtSrv;
 
-class GuiTest : public tsl::Gui {
+class GuiSlots : public tsl::Gui
+{
+    int *_slot;
+
 public:
-    GuiTest() { }
+    GuiSlots(int *slot) : _slot(slot) {}
 
-    // Called when this Gui gets loaded to create the UI
-    // Allocate all elements on the heap. libtesla will make sure to clean them up when not needed anymore
-    virtual tsl::elm::Element* createUI() override {
-        // A OverlayFrame is the base element every overlay consists of. This will draw the default Title and Subtitle.
-        // If you need more information in the header or want to change it's look, use a HeaderOverlayFrame.
-        auto frame = new tsl::elm::OverlayFrame("Tesla Example", "v1.3.1");
-
-        // A list that can contain sub elements and handles scrolling
+    virtual tsl::elm::Element *createUI() override
+    {
+        auto *rootFrame = new tsl::elm::OverlayFrame("ACNH-Buddy", "v1.0.0 - Item Selector");
         auto list = new tsl::elm::List();
 
-        // Create and add a new list item to the list
-        list->addItem(new tsl::elm::ListItem("Default List Item"));
+        // Player progression: 20, 30, 40
+        for (int i = 1; i <= 40; ++i)
+        {
+            auto *slotListItem = new tsl::elm::ListItem("Slot " + std::to_string(i));
+            slotListItem->setClickListener([this](u64 keys) {
+                if (keys & KEY_A || keys & KEY_RIGHT)
+                {
+                    *this->_slot = 12;
+                    return true;
+                }
+                else if (keys & KEY_LEFT)
+                {
+                    tsl::goBack();
+                    return true;
+                }
 
-        // Add the list to the frame for it to be drawn
+                return false;
+            });
+            list->addItem(slotListItem);
+        }
+
+        rootFrame->setContent(list);
+        return rootFrame;
+    }
+};
+
+class GuiItems : public tsl::Gui
+{
+public:
+    GuiItems() {}
+
+    virtual tsl::elm::Element *createUI() override
+    {
+        auto *rootFrame = new tsl::elm::OverlayFrame("ACNH-Buddy", "v1.0.0 - Item Selector");
+        auto list = new tsl::elm::List();
+
+        rootFrame->setContent(list);
+        return rootFrame;
+    }
+};
+
+typedef struct {
+    char readable_name[0x40];
+    uint32_t num_opcodes;
+    uint32_t opcodes[0x100];
+} DmntCheatDefinition;
+
+class GuiTest : public tsl::Gui
+{
+    int *_slot;
+    int *_item;
+    bool *_sticky;
+
+public:
+    GuiTest(int *slot, int *item, bool *sticky) : _slot(slot), _item(item), _sticky(sticky) {}
+
+    virtual tsl::elm::Element *createUI() override
+    {
+        auto frame = new tsl::elm::OverlayFrame("ACNH-Buddy", "v1.0.0");
+        auto list = new tsl::elm::List();
+
+        list->addItem(new tsl::elm::CategoryHeader("Slot Editor", true));
+        auto *slotListItem = new tsl::elm::ListItem("Inventory Slot", std::to_string(*_slot));
+        slotListItem->setClickListener([this](u64 keys) {
+            if (keys & KEY_A || keys & KEY_RIGHT)
+            {
+                tsl::changeTo<GuiSlots>(this->_slot);
+                return true;
+            }
+            else if (keys & KEY_LEFT)
+            {
+                tsl::goBack();
+                return true;
+            }
+
+            return false;
+        });
+        list->addItem(slotListItem);
+
+        auto *itemListItem = new tsl::elm::ListItem("Item IDs", std::to_string(*_item));
+        itemListItem->setClickListener([](u64 keys) {
+            if (keys & KEY_A || keys & KEY_RIGHT)
+            {
+                tsl::changeTo<GuiItems>();
+                return true;
+            }
+            else if (keys & KEY_LEFT)
+            {
+                tsl::goBack();
+                return true;
+            }
+
+            return false;
+        });
+        list->addItem(itemListItem);
+
+        auto *stickyToggleItem = new tsl::elm::ToggleListItem("Sticky", *this->_sticky);
+        stickyToggleItem->setClickListener([](u64 keys) {
+            if (keys & KEY_LEFT)
+            {
+                tsl::goBack();
+                return true;
+            }
+
+            return false;
+        });
+        stickyToggleItem->setStateChangedListener([this](bool state) {
+            *this->_sticky = state;
+        });
+        list->addItem(stickyToggleItem);
+
+        auto *setListItem = new tsl::elm::ListItem("Set Slot");
+        setListItem->setClickListener([](u64 keys) {
+            if (keys & KEY_A || keys & KEY_RIGHT)
+            {
+                /*const u8 in = 1;
+                DmntCheatDefinition cheat_def;
+                cheat_def.readable_name = "Add X to Slot 10";
+                cheat_def.num_opcodes = 4;
+                cheat_def.opcodes = { 0x08100000, 0xAC472418, 0x00000001, 0x00000c77 };
+                serviceDispatchInOut(&g_dmntchtSrv, 65204, in, 6131998,
+                    .buffer_attrs = { SfBufferAttr_In | SfBufferAttr_HipcMapAlias | SfBufferAttr_FixedSize },
+                    .buffers = { { cheat_def, sizeof(*cheat_def) } },
+                );*/
+                return true;
+            }
+            else if (keys & KEY_LEFT)
+            {
+                tsl::goBack();
+                return true;
+            }
+
+            return false;
+        });
+        list->addItem(setListItem);
+
         frame->setContent(list);
-        
-        // Return the frame to have it become the top level element of this Gui
         return frame;
     }
 
-    // Called once every frame to update values
-    virtual void update() override {
-
+    virtual void update() override
+    {
     }
 
-    // Called once every frame to handle inputs not handled by other UI elements
-    virtual bool handleInput(u64 keysDown, u64 keysHeld, touchPosition touchInput, JoystickPosition leftJoyStick, JoystickPosition rightJoyStick) override {
-        return false;   // Return true here to singal the inputs have been consumed
+    virtual bool handleInput(u64 keysDown, u64 keysHeld, touchPosition touchInput, JoystickPosition leftJoyStick, JoystickPosition rightJoyStick) override
+    {
+        return false;
     }
 };
 
-class OverlayTest : public tsl::Overlay {
+class OverlayTest : public tsl::Overlay
+{
+    int _slot = 10;
+    int _item = 0x50;
+    bool _sticky = false; // TODO: Save even when overlay is closed
+
 public:
-                                             // libtesla already initialized fs, hid, pl, pmdmnt, hid:sys and set:sys
-    virtual void initServices() override {}  // Called at the start to initialize all services necessary for this Overlay
-    virtual void exitServices() override {}  // Callet at the end to clean up all services previously initialized
+    virtual void initServices() override
+    {
+        smGetService(&g_dmntchtSrv, "dmnt:cht");
+        serviceDispatch(&g_dmntchtSrv, 65003);
+    }
 
-    virtual void onShow() override {}    // Called before overlay wants to change from invisible to visible state
-    virtual void onHide() override {}    // Called before overlay wants to change from visible to invisible state
+    virtual void exitServices() override
+    {
+        serviceClose(&g_dmntchtSrv);
+    }
 
-    virtual std::unique_ptr<tsl::Gui> loadInitialGui() override {
-        return initially<GuiTest>();  // Initial Gui to load. It's possible to pass arguments to it's constructor like this
+    virtual void onShow() override {}
+    virtual void onHide() override {}
+
+    virtual std::unique_ptr<tsl::Gui> loadInitialGui() override
+    {
+        return initially<GuiTest>(&_slot, &_item, &_sticky);
     }
 };
 
-int main(int argc, char **argv) {
+int main(int argc, char **argv)
+{
     return tsl::loop<OverlayTest>(argc, argv);
 }
