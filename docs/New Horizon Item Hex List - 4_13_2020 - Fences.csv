@@ -1,19 +1,19 @@
-Item Name,Item Hex
-Brick fence,00000c08
-Vertical-board fence,00000d4a
-Bamboo lattice fence,00000d4b
-Corral fence,000010fd
-Country fence,000010fe
-Rope fence,00001100
-Imperial fence,00001102
-Straw fence,00001104
-Iron fence,00001105
-Spiky fence,00001106
-Iron-and-stone fence,00001456
-Zen fence,00001457
-Stone fence,0000145c
-Barbed-wire fence,0000145d
-Simple wooden fence,00002dbf
-Lattice fence,00002dc0
-コミューン島専用柵,00002ffd
-Bunny Day fence,00003156
+Item Hex,Item Name
+00000c08,Brick fence
+00000d4a,Vertical-board fence
+00000d4b,Bamboo lattice fence
+000010fd,Corral fence
+000010fe,Country fence
+00001100,Rope fence
+00001102,Imperial fence
+00001104,Straw fence
+00001105,Iron fence
+00001106,Spiky fence
+00001456,Iron-and-stone fence
+00001457,Zen fence
+0000145c,Stone fence
+0000145d,Barbed-wire fence
+00002dbf,Simple wooden fence
+00002dc0,Lattice fence
+00002ffd,コミューン島専用柵
+00003156,Bunny Day fence

@@ -1,36 +1,36 @@
-Item Name,Item Hex
-Maple leaf,00001cce
-Tree branch,000009c4
-Bamboo piece,000009c5
-Softwood,00000acf
-Wood,00000ad0
-Hardwood,00000ad1
-Acorn,0000165f
-Pine cone,00001660
-Young spring bamboo,00001661
-Red ornament,00001662
-Blue ornament,00001663
-Gold ornament,00001664
-Customizable phone case kit,00002238
-Customization kit,000009d1
-Stone,000009c6
-Gold nugget,000009c9
-Iron nugget,000009cf
-Clay,00000c12
-Cherry-blossom petal,000016e3
-Snowflake,00000dd3
-Large snowflake,00000dd4
-Star fragment,0000175f
-Large star fragment,00001760
-Capricorn fragment,00001761
-Aquarius fragment,00001762
-Pisces fragment,00001763
-Aries fragment,00001764
-Taurus fragment,00001765
-Gemini fragment,00001766
-Cancer fragment,00001767
-Leo fragment,00001768
-Virgo fragment,00001769
-Libra fragment,0000176a
-Scorpius fragment,0000176b
-Sagittarius fragment,0000176c
+Item Hex,Item Name
+00001cce,Maple leaf
+000009c4,Tree branch
+000009c5,Bamboo piece
+00000acf,Softwood
+00000ad0,Wood
+00000ad1,Hardwood
+0000165f,Acorn
+00001660,Pine cone
+00001661,Young spring bamboo
+00001662,Red ornament
+00001663,Blue ornament
+00001664,Gold ornament
+00002238,Customizable phone case kit
+000009d1,Customization kit
+000009c6,Stone
+000009c9,Gold nugget
+000009cf,Iron nugget
+00000c12,Clay
+000016e3,Cherry-blossom petal
+00000dd3,Snowflake
+00000dd4,Large snowflake
+0000175f,Star fragment
+00001760,Large star fragment
+00001761,Capricorn fragment
+00001762,Aquarius fragment
+00001763,Pisces fragment
+00001764,Aries fragment
+00001765,Taurus fragment
+00001766,Gemini fragment
+00001767,Cancer fragment
+00001768,Leo fragment
+00001769,Virgo fragment
+0000176a,Libra fragment
+0000176b,Scorpius fragment
+0000176c,Sagittarius fragment

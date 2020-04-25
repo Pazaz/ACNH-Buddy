@@ -1,107 +1,107 @@
-Item Name,Item Hex
-Axe,00000834
-Flimsy axe,00000bfc
-Stone axe,000016e0
-Golden axe,00002591
-Cliff construction permit,000009ef
-Fishing rod,00000949
-Flimsy fishing rod,00000c0c
-Fish fishing rod,00002117
-Colorful fishing rod,00002118
-Outdoorsy fishing rod,00002119
-Golden rod,000021d4
-Path construction permit,00000c03
-Ladder,00000a37
-Flimsy net,00000948
-Net,00001698
-Star net,00001ff0
-Colorful net,00001ff1
-Outdoorsy net,00001ff2
-Golden net,00001ff3
-Waterscaping permit,00000caf
-Shovel,00000833
-Flimsy shovel,00000c0a
-Golden shovel,0000217e
-Outdoorsy shovel,0000217f
-Printed-design shovel,00002180
-Colorful shovel,00002181
-Slingshot,00000b06
-Golden slingshot,00002182
-Outdoorsy slingshot,00002183
-Colorful slingshot,00002184
-Timer,00000d03
-Watering can,0000094b
-Flimsy watering can,00000c0b
-Golden watering can,00002155
-Colorful watering can,00002156
-Elephant watering can,00002157
-Outdoorsy watering can,00002158
-Vaulting pole,0000125f
-たぬきかいはつヘルメット,00002244
-Toad parasol,000016e5
-Leaf umbrella,00001ab8
-Sunny parasol,00001af8
-Snowflake umbrella,00001af9
-Hydrangea umbrella,00001afa
-Strawberry umbrella,00001afb
-Kiwi umbrella,00001afc
-Watermelon umbrella,00001afd
-Pineapple umbrella,00001afe
-Grape umbrella,00001aff
-Orange umbrella,00001b00
-Raindrop umbrella,00001b01
-Mini-flower-print umbrella,00001b02
-Black lace umbrella,00001b03
-Striped umbrella,00001b04
-Tartan-check umbrella,00001b05
-Patterned vinyl umbrella,00001b06
-Bat umbrella,00001b07
-Camo umbrella,00001b0b
-Ghost umbrella,00001b0c
-Frog umbrella,00001b0d
-Candy umbrella,00001b0e
-Pink umbrella,00001bfc
-Vinyl umbrella,00001bfd
-Two-tone umbrella,00001bfe
-Bear umbrella,00001bff
-Maple-leaf umbrella,00001c01
-Panda umbrella,00001c02
-Exquisite parasol,00001c03
-Logo umbrella,00001c04
-Spider umbrella,00001c05
-Mush umbrella,00001c06
-Fairy-tale umbrella,00001c07
-Pink shiny-bows parasol,00001c08
-Kabuki umbrella,00001c09
-Paper parasol,00001c0a
-Rainbow umbrella,00001c0b
-Gelato umbrella,00001c0c
-Petal parasol,00001c0d
-Busted umbrella,00001c0e
-Purple chic umbrella,00001c0f
-Ladybug umbrella,0000223f
-Fish umbrella,00002240
-DAL umbrella,00002558
-Nook Inc. Umbrella,00002559
-Cherry-blossom umbrella,000026d9
-Lacy parasol,000026da
-Peach umbrella,000026db
-Apple umbrella,000026dc
-Cherry umbrella,000026dd
-Pear umbrella,000026de
-Melon umbrella,000026df
-Mint umbrella,000026e0
-Picnic umbrella,000026e1
-Lemon umbrella,000026e2
-Eggy parasol,000026e3
-Blue dot parasol,000026e4
-Beach umbrella,000026e5
-Red umbrella,000026e6
-Blue umbrella,000026e7
-Green umbrella,000026e8
-Purple shiny-bows parasol,00002f65
-Blue shiny-bows parasol,00002f66
-White shiny-bows parasol,00002f67
-Green chic umbrella,00002f68
-Black chic umbrella,00002f69
-Red chic umbrella,00002f6a
+Item Hex,Item Name
+00000834,Axe
+00000bfc,Flimsy axe
+000016e0,Stone axe
+00002591,Golden axe
+000009ef,Cliff construction permit
+00000949,Fishing rod
+00000c0c,Flimsy fishing rod
+00002117,Fish fishing rod
+00002118,Colorful fishing rod
+00002119,Outdoorsy fishing rod
+000021d4,Golden rod
+00000c03,Path construction permit
+00000a37,Ladder
+00000948,Flimsy net
+00001698,Net
+00001ff0,Star net
+00001ff1,Colorful net
+00001ff2,Outdoorsy net
+00001ff3,Golden net
+00000caf,Waterscaping permit
+00000833,Shovel
+00000c0a,Flimsy shovel
+0000217e,Golden shovel
+0000217f,Outdoorsy shovel
+00002180,Printed-design shovel
+00002181,Colorful shovel
+00000b06,Slingshot
+00002182,Golden slingshot
+00002183,Outdoorsy slingshot
+00002184,Colorful slingshot
+00000d03,Timer
+0000094b,Watering can
+00000c0b,Flimsy watering can
+00002155,Golden watering can
+00002156,Colorful watering can
+00002157,Elephant watering can
+00002158,Outdoorsy watering can
+0000125f,Vaulting pole
+00002244,たぬきかいはつヘルメット
+000016e5,Toad parasol
+00001ab8,Leaf umbrella
+00001af8,Sunny parasol
+00001af9,Snowflake umbrella
+00001afa,Hydrangea umbrella
+00001afb,Strawberry umbrella
+00001afc,Kiwi umbrella
+00001afd,Watermelon umbrella
+00001afe,Pineapple umbrella
+00001aff,Grape umbrella
+00001b00,Orange umbrella
+00001b01,Raindrop umbrella
+00001b02,Mini-flower-print umbrella
+00001b03,Black lace umbrella
+00001b04,Striped umbrella
+00001b05,Tartan-check umbrella
+00001b06,Patterned vinyl umbrella
+00001b07,Bat umbrella
+00001b0b,Camo umbrella
+00001b0c,Ghost umbrella
+00001b0d,Frog umbrella
+00001b0e,Candy umbrella
+00001bfc,Pink umbrella
+00001bfd,Vinyl umbrella
+00001bfe,Two-tone umbrella
+00001bff,Bear umbrella
+00001c01,Maple-leaf umbrella
+00001c02,Panda umbrella
+00001c03,Exquisite parasol
+00001c04,Logo umbrella
+00001c05,Spider umbrella
+00001c06,Mush umbrella
+00001c07,Fairy-tale umbrella
+00001c08,Pink shiny-bows parasol
+00001c09,Kabuki umbrella
+00001c0a,Paper parasol
+00001c0b,Rainbow umbrella
+00001c0c,Gelato umbrella
+00001c0d,Petal parasol
+00001c0e,Busted umbrella
+00001c0f,Purple chic umbrella
+0000223f,Ladybug umbrella
+00002240,Fish umbrella
+00002558,DAL umbrella
+00002559,Nook Inc. Umbrella
+000026d9,Cherry-blossom umbrella
+000026da,Lacy parasol
+000026db,Peach umbrella
+000026dc,Apple umbrella
+000026dd,Cherry umbrella
+000026de,Pear umbrella
+000026df,Melon umbrella
+000026e0,Mint umbrella
+000026e1,Picnic umbrella
+000026e2,Lemon umbrella
+000026e3,Eggy parasol
+000026e4,Blue dot parasol
+000026e5,Beach umbrella
+000026e6,Red umbrella
+000026e7,Blue umbrella
+000026e8,Green umbrella
+00002f65,Purple shiny-bows parasol
+00002f66,Blue shiny-bows parasol
+00002f67,White shiny-bows parasol
+00002f68,Green chic umbrella
+00002f69,Black chic umbrella
+00002f6a,Red chic umbrella

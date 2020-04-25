@@ -1,161 +1,161 @@
-Item Name,Item Hex
-Saw stag model,00001722
-Grand h. hercules model,00001724
-Wasp model,00001727
-Honeybee model,00001728
-Scarab beetle model,00001729
-Flea model,0000172f
-Mosquito model,00001730
-Horned dynastid model,00001732
-Tiger butterfly model,00001738
-Brown cicada model,00001b86
-R. Brooke's birdwing model,00001b89
-Red dragonfly model,00001b8a
-Grand Q. A. birdwing model,00001b8b
-Pondskater model,00001b8c
-Ant model,00001b8d
-Pill bug model,00001b8e
-Wharf roach model,00001b8f
-Moth model,00001b90
-Diving beetle model,00001b91
-Darner dragonfly model,00001b92
-Grand goliath beetle model,00001b93
-Fly model,00001b94
-Orchid mantis model,00001b95
-Tiger beetle model,00001b96
-Evening cicada model,00001b97
-Cyclommatus stag model,00001b98
-Firefly model,00001b99
-Dung beetle model,00001b9a
-Rice grasshopper model,00001b9b
-Mantis model,00001b9c
-Stinkbug model,00001b9d
-Citrus long-horned b. model,00001b9e
-Peacock butterfly model,00001b9f
-Snail model,00001ba0
-Grasshopper model,00001ba1
-Earth-boring dung b. model,00001ba2
-Horned atlas model,00001ba3
-Walking leaf model,00001ba4
-Cricket model,00001ba5
-Giant cicada model,00001ba6
-Spider model,00001ba7
-Agrias butterfly model,00001ba8
-Robust cicada model,00001ba9
-Bagworm model,00001baa
-Miyama stag model,00001bab
-Yellow butterfly model,00001bac
-Common butterfly model,00001bad
-Emperor butterfly model,00001bae
-Walking stick model,00001baf
-Rainbow stag model,00001bb0
-Mole cricket model,00001bb1
-Grand b. dragonfly model,00001bb2
-Monarch butterfly model,00001bb3
-Giant stag model,00001bb4
-Golden stag model,00001bb5
-Scorpion model,00001bb6
-Cicada shell model,00001bb7
-Bell cricket model,00001bb8
-Long locust model,00001bb9
-Jewel beetle model,00001bbb
-Tarantula model,00001bbd
-Ladybug model,00001bbe
-Migratory locust model,00001bbf
-Walker cicada model,00001bc0
-Violin beetle model,00001bc1
-Hermit crab model,00001bc4
-Grand Atlas moth model,00001bc5
-Horned elephant model,00001bc6
-Common bluebottle model,00001bc7
-Paper kite butterfly model,00001bc8
-Great purple emperor model,00001bc9
-Drone beetle model,00001bca
-Grand giraffe stag model,00001bcb
-Man-faced stink bug model,00001bcc
-M. sunset moth model,00001bcd
-Blue weevil beetle model,00001bce
-Rosalia batesi beetle model,00001bcf
-Giant water bug model,00001bd0
-Damselfly model,00001bd1
-Centipede model,00001cef
-Crucian carp model,00001b11
-Goldfish model,00001b12
-Bitterling model,00001b13
-Horse mackerel model,00001b14
-Angelfish model,00001b15
-Arowana model,00001b17
-Sweetfish model,00001b18
-Betta model,00001b19
-Black bass model,00001b1a
-Bluegill model,00001b1b
-Football fish model,00001b1c
-Butterfly fish model,00001b1d
-Pop-eyed goldfish model,00001b1e
-Barreleye model,00001b1f
-Loach model,00001b20
-Nibble fish model,00001b21
-Freshwater goby model,00001b22
-Ray model,00001b25
-Saddled bichir model,00001b26
-Blowfish model,00001b27
-Gar model,00001b28
-Golden trout model,00001b29
-Guppy model,00001b2a
-Ribbon eel model,00001b2b
-Puffer fish model,00001b2c
-Olive flounder model,00001b2d
-Squid model,00001b2e
-Barred knifejaw model,00001b2f
-Stringfish model,00001b30
-Whale shark model,00001b31
-Frog model,00001b32
-Blue marlin model,00001b33
-Snapping turtle model,00001b34
-Dab model,00001b35
-King salmon model,00001b42
-Suckerfish model,00001b43
-Carp model,00001b44
-Clown fish model,00001b45
-Sea butterfly model,00001b46
-Tuna model,00001b47
-Ocean sunfish model,00001b48
-Killifish model,00001b49
-Catfish model,00001b4b
-Surgeonfish model,00001b4c
-Napoleonfish model,00001b4d
-Neon tetra model,00001b4e
-Koi model,00001b4f
-Anchovy model,00001b57
-Pale chub model,00001b58
-Tadpole model,00001b59
-Saw shark model,00001b5a
-Char model,00001b5b
-Pike model,00001b5c
-Piranha model,00001b5d
-Arapaima model,00001b5e
-Giant snakehead model,00001b5f
-Rainbowfish model,00001b60
-Ranchu goldfish model,00001b61
-Giant trevally model,00001b62
-Oarfish model,00001b63
-Salmon model,00001b64
-Great white shark model,00001b65
-Mahi-mahi model,00001b66
-Hammerhead shark model,00001b67
-Coelacanth model,00001b68
-Soft-shelled turtle model,00001b69
-Sea bass model,00001b6a
-Mitten crab model,00001b6b
-Red snapper model,00001b6c
-Sea horse model,00001b6d
-Tilapia model,00001b6e
-Sturgeon model,00001b6f
-Dace model,00001b70
-Moray eel model,00001b71
-Pond smelt model,00001b72
-Cherry salmon model,00001b73
-Yellow perch model,00001b74
-Crawfish model,00001b75
-Zebra turkeyfish model,00001e9c
-Dorado model,00001e9d
+Item Hex,Item Name
+00001722,Saw stag model
+00001724,Grand h. hercules model
+00001727,Wasp model
+00001728,Honeybee model
+00001729,Scarab beetle model
+0000172f,Flea model
+00001730,Mosquito model
+00001732,Horned dynastid model
+00001738,Tiger butterfly model
+00001b86,Brown cicada model
+00001b89,R. Brooke's birdwing model
+00001b8a,Red dragonfly model
+00001b8b,Grand Q. A. birdwing model
+00001b8c,Pondskater model
+00001b8d,Ant model
+00001b8e,Pill bug model
+00001b8f,Wharf roach model
+00001b90,Moth model
+00001b91,Diving beetle model
+00001b92,Darner dragonfly model
+00001b93,Grand goliath beetle model
+00001b94,Fly model
+00001b95,Orchid mantis model
+00001b96,Tiger beetle model
+00001b97,Evening cicada model
+00001b98,Cyclommatus stag model
+00001b99,Firefly model
+00001b9a,Dung beetle model
+00001b9b,Rice grasshopper model
+00001b9c,Mantis model
+00001b9d,Stinkbug model
+00001b9e,Citrus long-horned b. model
+00001b9f,Peacock butterfly model
+00001ba0,Snail model
+00001ba1,Grasshopper model
+00001ba2,Earth-boring dung b. model
+00001ba3,Horned atlas model
+00001ba4,Walking leaf model
+00001ba5,Cricket model
+00001ba6,Giant cicada model
+00001ba7,Spider model
+00001ba8,Agrias butterfly model
+00001ba9,Robust cicada model
+00001baa,Bagworm model
+00001bab,Miyama stag model
+00001bac,Yellow butterfly model
+00001bad,Common butterfly model
+00001bae,Emperor butterfly model
+00001baf,Walking stick model
+00001bb0,Rainbow stag model
+00001bb1,Mole cricket model
+00001bb2,Grand b. dragonfly model
+00001bb3,Monarch butterfly model
+00001bb4,Giant stag model
+00001bb5,Golden stag model
+00001bb6,Scorpion model
+00001bb7,Cicada shell model
+00001bb8,Bell cricket model
+00001bb9,Long locust model
+00001bbb,Jewel beetle model
+00001bbd,Tarantula model
+00001bbe,Ladybug model
+00001bbf,Migratory locust model
+00001bc0,Walker cicada model
+00001bc1,Violin beetle model
+00001bc4,Hermit crab model
+00001bc5,Grand Atlas moth model
+00001bc6,Horned elephant model
+00001bc7,Common bluebottle model
+00001bc8,Paper kite butterfly model
+00001bc9,Great purple emperor model
+00001bca,Drone beetle model
+00001bcb,Grand giraffe stag model
+00001bcc,Man-faced stink bug model
+00001bcd,M. sunset moth model
+00001bce,Blue weevil beetle model
+00001bcf,Rosalia batesi beetle model
+00001bd0,Giant water bug model
+00001bd1,Damselfly model
+00001cef,Centipede model
+00001b11,Crucian carp model
+00001b12,Goldfish model
+00001b13,Bitterling model
+00001b14,Horse mackerel model
+00001b15,Angelfish model
+00001b17,Arowana model
+00001b18,Sweetfish model
+00001b19,Betta model
+00001b1a,Black bass model
+00001b1b,Bluegill model
+00001b1c,Football fish model
+00001b1d,Butterfly fish model
+00001b1e,Pop-eyed goldfish model
+00001b1f,Barreleye model
+00001b20,Loach model
+00001b21,Nibble fish model
+00001b22,Freshwater goby model
+00001b25,Ray model
+00001b26,Saddled bichir model
+00001b27,Blowfish model
+00001b28,Gar model
+00001b29,Golden trout model
+00001b2a,Guppy model
+00001b2b,Ribbon eel model
+00001b2c,Puffer fish model
+00001b2d,Olive flounder model
+00001b2e,Squid model
+00001b2f,Barred knifejaw model
+00001b30,Stringfish model
+00001b31,Whale shark model
+00001b32,Frog model
+00001b33,Blue marlin model
+00001b34,Snapping turtle model
+00001b35,Dab model
+00001b42,King salmon model
+00001b43,Suckerfish model
+00001b44,Carp model
+00001b45,Clown fish model
+00001b46,Sea butterfly model
+00001b47,Tuna model
+00001b48,Ocean sunfish model
+00001b49,Killifish model
+00001b4b,Catfish model
+00001b4c,Surgeonfish model
+00001b4d,Napoleonfish model
+00001b4e,Neon tetra model
+00001b4f,Koi model
+00001b57,Anchovy model
+00001b58,Pale chub model
+00001b59,Tadpole model
+00001b5a,Saw shark model
+00001b5b,Char model
+00001b5c,Pike model
+00001b5d,Piranha model
+00001b5e,Arapaima model
+00001b5f,Giant snakehead model
+00001b60,Rainbowfish model
+00001b61,Ranchu goldfish model
+00001b62,Giant trevally model
+00001b63,Oarfish model
+00001b64,Salmon model
+00001b65,Great white shark model
+00001b66,Mahi-mahi model
+00001b67,Hammerhead shark model
+00001b68,Coelacanth model
+00001b69,Soft-shelled turtle model
+00001b6a,Sea bass model
+00001b6b,Mitten crab model
+00001b6c,Red snapper model
+00001b6d,Sea horse model
+00001b6e,Tilapia model
+00001b6f,Sturgeon model
+00001b70,Dace model
+00001b71,Moray eel model
+00001b72,Pond smelt model
+00001b73,Cherry salmon model
+00001b74,Yellow perch model
+00001b75,Crawfish model
+00001e9c,Zebra turkeyfish model
+00001e9d,Dorado model

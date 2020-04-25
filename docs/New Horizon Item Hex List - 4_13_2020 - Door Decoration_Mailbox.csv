@@ -1,77 +1,77 @@
-Item Name,Item Hex
-Cosmos wreath,000010c5
-Snowflake wreath,00001117
-Shell wreath,00001118
-Ornament wreath,00001119
-Fruit wreath,0000111a
-Mushroom wreath,00001276
-Tree branch wreath,00001277
-Skull doorplate,00001282
-Bone doorplate,0000128f
-Iron doorplate,00001290
-Fish doorplate,0000129c
-Heart doorplate,000014bd
-Spider doorplate,000014be
-Windflower wreath,0000153c
-Rose wreath,0000153d
-Pansy wreath,0000155a
-Mum wreath,0000155b
-Hyacinth wreath,0000155c
-Lily wreath,00001609
-Tulip wreath,00001626
-Fancy lily wreath,0000162d
-Paw-print doorplate,00001654
-Crest doorplate,00001655
-Timber doorplate,00001656
-Fossil doorplate,00001657
-Pretty cosmos wreath,00001671
-Cool windflower wreath,00001672
-Fancy rose wreath,00001673
-Snazzy pansy wreath,00001674
-Fancy mum wreath,00001675
-Cool hyacinth wreath,00001676
-Pretty tulip wreath,00001677
-Chic cosmos wreath,00001684
-Chic windflower wreath,00001685
-Dark rose wreath,00001686
-Cool pansy wreath,00001687
-Natural mum wreath,00001688
-Purple hyacinth wreath,00001689
-Dark lily wreath,0000168a
-Dark tulip wreath,0000168b
-Blue rose wreath,0000168c
-Gold rose wreath,000016bc
-Bunny Day wreath,000030e5
-Ordinary mailbox,00000a0b
-Square mailbox,000014de
-Wooden mailbox,000014df
-Large mailbox,000014e0
-Rustic mailbox,000016aa
-Red ordinary mailbox,000021d5
-Pink ordinary mailbox,000021d6
-Yellow ordinary mailbox,000021d7
-Green ordinary mailbox,000021d8
-Blue ordinary mailbox,000021d9
-White ordinary mailbox,000021da
-Black ordinary mailbox,000021db
-Red large mailbox,000021e0
-Pink large mailbox,000021e1
-Yellow large mailbox,000021e2
-Green large mailbox,000021e3
-Blue large mailbox,000021e4
-White large mailbox,000021e5
-Black large mailbox,000021e6
-Red square mailbox,0000227b
-Pink square mailbox,0000227c
-Yellow square mailbox,0000227d
-Green square mailbox,0000227e
-Blue square mailbox,0000227f
-White square mailbox,00002280
-Black square mailbox,00002281
-Chic wooden mailbox,000022c1
-Red wooden mailbox,000022c2
-Pink wooden mailbox,000022c3
-Yellow wooden mailbox,000022c4
-Green wooden mailbox,000022c5
-Blue wooden mailbox,000022c6
-White wooden mailbox,000022c7
+Item Hex,Item Name
+000010c5,Cosmos wreath
+00001117,Snowflake wreath
+00001118,Shell wreath
+00001119,Ornament wreath
+0000111a,Fruit wreath
+00001276,Mushroom wreath
+00001277,Tree branch wreath
+00001282,Skull doorplate
+0000128f,Bone doorplate
+00001290,Iron doorplate
+0000129c,Fish doorplate
+000014bd,Heart doorplate
+000014be,Spider doorplate
+0000153c,Windflower wreath
+0000153d,Rose wreath
+0000155a,Pansy wreath
+0000155b,Mum wreath
+0000155c,Hyacinth wreath
+00001609,Lily wreath
+00001626,Tulip wreath
+0000162d,Fancy lily wreath
+00001654,Paw-print doorplate
+00001655,Crest doorplate
+00001656,Timber doorplate
+00001657,Fossil doorplate
+00001671,Pretty cosmos wreath
+00001672,Cool windflower wreath
+00001673,Fancy rose wreath
+00001674,Snazzy pansy wreath
+00001675,Fancy mum wreath
+00001676,Cool hyacinth wreath
+00001677,Pretty tulip wreath
+00001684,Chic cosmos wreath
+00001685,Chic windflower wreath
+00001686,Dark rose wreath
+00001687,Cool pansy wreath
+00001688,Natural mum wreath
+00001689,Purple hyacinth wreath
+0000168a,Dark lily wreath
+0000168b,Dark tulip wreath
+0000168c,Blue rose wreath
+000016bc,Gold rose wreath
+000030e5,Bunny Day wreath
+00000a0b,Ordinary mailbox
+000014de,Square mailbox
+000014df,Wooden mailbox
+000014e0,Large mailbox
+000016aa,Rustic mailbox
+000021d5,Red ordinary mailbox
+000021d6,Pink ordinary mailbox
+000021d7,Yellow ordinary mailbox
+000021d8,Green ordinary mailbox
+000021d9,Blue ordinary mailbox
+000021da,White ordinary mailbox
+000021db,Black ordinary mailbox
+000021e0,Red large mailbox
+000021e1,Pink large mailbox
+000021e2,Yellow large mailbox
+000021e3,Green large mailbox
+000021e4,Blue large mailbox
+000021e5,White large mailbox
+000021e6,Black large mailbox
+0000227b,Red square mailbox
+0000227c,Pink square mailbox
+0000227d,Yellow square mailbox
+0000227e,Green square mailbox
+0000227f,Blue square mailbox
+00002280,White square mailbox
+00002281,Black square mailbox
+000022c1,Chic wooden mailbox
+000022c2,Red wooden mailbox
+000022c3,Pink wooden mailbox
+000022c4,Yellow wooden mailbox
+000022c5,Green wooden mailbox
+000022c6,Blue wooden mailbox
+000022c7,White wooden mailbox

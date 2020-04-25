@@ -1,116 +1,116 @@
-Item Name,Item Hex
-Delivery,00001225
-Vaulting Pole Recipe,00002356
-Flimsy Shovel Recipe,00002357
-Flimsy Watering Can Recipe,00002358
-Slingshot Recipe,00002845
-Flimsy Axe Recipe,00003006
-Ladder Recipe,00003027
-Top 8 Pop Hairstyles,00002359
-Top 8 Cool Hairstyles,0000235a
-Top 8 Stylish Hair Colors,0000235b
-Pocket Organization Guide,0000235c
-Pretty Good Tools Recipes,00002405
-Tool Ring: It's Essential!,00002590
-Ultimate Pocket Stuffing,00002b84
-Custom Design Pro Editor,00002f99
-Present,00001180
-ダミーDIYレシピ,00000a87
-DIY for Beginners,000015e3
-Test Your DIY Skills,000015e4
-Wildest Dreams DIY,000015e5
-Present,00001e13
-Present,00001e14
-Present,00001e15
-Present,00001e16
-Present,00001e17
-Present,00001e18
-Present,00001e19
-Present,00001e1a
-Present,00001e1b
-Present,00001e1c
-Present,00001e1d
-Present,00001e1e
-Present,00001e1f
-Present,00001e20
-Present,00001e21
-Present,00001e22
-Fish bait,000011c5
-Wasp nest,00000cbf
-Tent,00000abe
-Blathers's tent marker,00000ac3
-Shop construction kit,00000ac4
-<N>'s tent,00000ac5
-Housing kit,00000d15
-Incline marker kit,000010d7
-Tailors construction kit,0000113b
-Campsite construction kit,0000142e
-<N>'s kit,000014ed
-Moving kit,000014ee
-Tailors moving kit,000014ef
-Shop moving kit,000014f0
-Museum moving kit,000014f1
-Campsite moving kit,00001ab9
-Bridge marker kit,000010d6
-Bridge construction kit,00001c2b
-Plot 1 housing kit,000016c3
-Plot 2 housing kit,000016c4
-Plot 3 housing kit,000016c5
-Stone path permit,00002245
-Brick path permit,00002246
-Dark dirt path permit,00002247
-Arched tile path permit,00002248
-Sand path permit,00002249
-Terra-cotta tile permit,0000224a
-Wooden path permit,0000224b
-Waterscaping permit,0000224c
-Cliff construction permit,0000224d
-Custom design path permit,0000262b
-Medicine,00000ad9
-Message bottle,000016a1
-Egg message bottle,00003100
-Nook Miles Ticket,000016db
-Bell voucher,000026ec
-Ocarina,000014c8
-Pan flute,0000158d
-Party popper,00000ac1
-Pitfall seed,00000a12
-Delivery box,00001095
-Light stick,0000166d
-Tambourine,00001536
-Empty can,00000d8a
-Boot,00000d8d
-Old tire,00000d8e
-Nook Inc. uchiwa fan,00002622
-Yellow wrapping paper,00001e03
-Pink wrapping paper,00001e04
-Orange wrapping paper,00001e05
-Chartreuse wrapping paper,00001e06
-Green wrapping paper,00001e07
-Mint wrapping paper,00001e08
-Light-blue wrapping paper,00001e09
-Purple wrapping paper,00001e0a
-Navy wrapping paper,00001e0b
-Blue wrapping paper,00001e0c
-White wrapping paper,00001e0d
-Red wrapping paper,00001e0e
-Gold wrapping paper,00001e0f
-Brown wrapping paper,00001e10
-Gray wrapping paper,00001e11
-Black wrapping paper,00001e12
-Stone bridge,00001718
-Suspension bridge,00001719
-Wooden bridge,0000171a
-Brick bridge,0000171b
-Zen bridge,0000171c
-Log bridge,0000171d
-Red zen bridge,0000171e
-Iron bridge,0000171f
-Stone staircase,000016e7
-Red steel staircase,000016e8
-White-plank ramp,000016e9
-Natural ramp,000016ea
-Log staircase,000016eb
-Blue-plank ramp,000016ec
-Blue steel staircase,000016ed
-Brick staircase,000016ee
+Item Hex,Item Name
+00001225,Delivery
+00002356,Vaulting Pole Recipe
+00002357,Flimsy Shovel Recipe
+00002358,Flimsy Watering Can Recipe
+00002845,Slingshot Recipe
+00003006,Flimsy Axe Recipe
+00003027,Ladder Recipe
+00002359,Top 8 Pop Hairstyles
+0000235a,Top 8 Cool Hairstyles
+0000235b,Top 8 Stylish Hair Colors
+0000235c,Pocket Organization Guide
+00002405,Pretty Good Tools Recipes
+00002590,Tool Ring: It's Essential!
+00002b84,Ultimate Pocket Stuffing
+00002f99,Custom Design Pro Editor
+00001180,Present
+00000a87,ダミーDIYレシピ
+000015e3,DIY for Beginners
+000015e4,Test Your DIY Skills
+000015e5,Wildest Dreams DIY
+00001e13,Present
+00001e14,Present
+00001e15,Present
+00001e16,Present
+00001e17,Present
+00001e18,Present
+00001e19,Present
+00001e1a,Present
+00001e1b,Present
+00001e1c,Present
+00001e1d,Present
+00001e1e,Present
+00001e1f,Present
+00001e20,Present
+00001e21,Present
+00001e22,Present
+000011c5,Fish bait
+00000cbf,Wasp nest
+00000abe,Tent
+00000ac3,Blathers's tent marker
+00000ac4,Shop construction kit
+00000ac5,<N>'s tent
+00000d15,Housing kit
+000010d7,Incline marker kit
+0000113b,Tailors construction kit
+0000142e,Campsite construction kit
+000014ed,<N>'s kit
+000014ee,Moving kit
+000014ef,Tailors moving kit
+000014f0,Shop moving kit
+000014f1,Museum moving kit
+00001ab9,Campsite moving kit
+000010d6,Bridge marker kit
+00001c2b,Bridge construction kit
+000016c3,Plot 1 housing kit
+000016c4,Plot 2 housing kit
+000016c5,Plot 3 housing kit
+00002245,Stone path permit
+00002246,Brick path permit
+00002247,Dark dirt path permit
+00002248,Arched tile path permit
+00002249,Sand path permit
+0000224a,Terra-cotta tile permit
+0000224b,Wooden path permit
+0000224c,Waterscaping permit
+0000224d,Cliff construction permit
+0000262b,Custom design path permit
+00000ad9,Medicine
+000016a1,Message bottle
+00003100,Egg message bottle
+000016db,Nook Miles Ticket
+000026ec,Bell voucher
+000014c8,Ocarina
+0000158d,Pan flute
+00000ac1,Party popper
+00000a12,Pitfall seed
+00001095,Delivery box
+0000166d,Light stick
+00001536,Tambourine
+00000d8a,Empty can
+00000d8d,Boot
+00000d8e,Old tire
+00002622,Nook Inc. uchiwa fan
+00001e03,Yellow wrapping paper
+00001e04,Pink wrapping paper
+00001e05,Orange wrapping paper
+00001e06,Chartreuse wrapping paper
+00001e07,Green wrapping paper
+00001e08,Mint wrapping paper
+00001e09,Light-blue wrapping paper
+00001e0a,Purple wrapping paper
+00001e0b,Navy wrapping paper
+00001e0c,Blue wrapping paper
+00001e0d,White wrapping paper
+00001e0e,Red wrapping paper
+00001e0f,Gold wrapping paper
+00001e10,Brown wrapping paper
+00001e11,Gray wrapping paper
+00001e12,Black wrapping paper
+00001718,Stone bridge
+00001719,Suspension bridge
+0000171a,Wooden bridge
+0000171b,Brick bridge
+0000171c,Zen bridge
+0000171d,Log bridge
+0000171e,Red zen bridge
+0000171f,Iron bridge
+000016e7,Stone staircase
+000016e8,Red steel staircase
+000016e9,White-plank ramp
+000016ea,Natural ramp
+000016eb,Log staircase
+000016ec,Blue-plank ramp
+000016ed,Blue steel staircase
+000016ee,Brick staircase

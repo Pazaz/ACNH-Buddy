@@ -1,244 +1,244 @@
-Item Name,Item Hex
-Common wall,000012bb
-Steel-frame wall,000012c1
-Pink painted-wood wall,000012c2
-White painted-wood wall,000012c3
-Brown herringbone wall,000012c4
-Chocolate herringbone wall,000012c5
-Brown hallway wall,000012c6
-Chocolate hallway wall,000012c7
-Yellow-paint wall,000012c8
-Orange-paint wall,000012c9
-Blue-paint wall,000012cb
-Green-paint wall,000012cc
-Rustic-stone wall,000012cd
-Blue-crown wall,000012ce
-Black-crown wall,000012cf
-Pink-crown wall,000012d0
-Beige art-deco wall,000012d1
-Red art-deco wall,000012d2
-Screen wall,000012d3
-Gold-screen wall,000012d4
-Circuit-board wall,000012d5
-Shutter wall,000012d9
-White botanical-tile wall,000012da
-Brown botanical-tile wall,000012db
-Chic wall,000012dc
-Lattice wall,000012de
-Beige blossoming wall,000012df
-Wavy-tile wall,000012e0
-Bamboo wall,000012e1
-Beige desert-tile wall,000012e2
-Blue desert-tile wall,000012e3
-Bamboo-screen wall,000012e4
-Classic-library wall,000012e5
-Manga-library wall,000012e6
-Bank-vault wall,000012e7
-Cabin wall,000012e8
-Crepe-design wall,000012e9
-Construction-site wall,000012eb
-Stacked-wood wall,000012ec
-Rammed-earth wall,000012ed
-Groovy wall,000012ee
-Retro flower-print wall,000012ef
-Blue intricate wall,000012f0
-Yellow intricate wall,000012f1
-Ivy wall,000012f2
-Rock-climbing wall,000012f3
-Skyscraper wall,000012f4
-Bamboo-grove wall,000012f5
-Paintball wall,000012f6
-Snowflake wall,000012f7
-Dirt-clod wall,000012f8
-Old wallpaper,000012f9
-Wild-wood wall,000012fa
-Wooden-mosaic wall,000012fb
-Dark wooden-mosaic wall,000012fc
-Stately wall,000012fd
-Mosaic-tile wall,000012fe
-Shoji screen,000012ff
-Modern shoji-screen wall,00001300
-Honeycomb wall,00001301
-Exquisite wall,00001302
-Yellow simple-cloth wall,00001303
-Pink simple-cloth wall,00001304
-Blue simple-cloth wall,00001305
-Orange molded-panel wall,00001306
-Blue molded-panel wall,00001307
-Gray molded-panel wall,00001308
-Abstract wall,00001309
-Blue heart-pattern wall,0000130a
-Pink heart-pattern wall,0000130b
-Industrial wall,0000130c
-Beaded-curtain wall,0000130d
-Heavy-curtain wall,0000130e
-Marine pop wall,0000130f
-Butterflies wall,00001310
-Kisses wall,00001311
-Blackboard wall,00001312
-Camo wall,00001313
-Blue camo wall,00001314
-Purple camo wall,00001315
-Pastel puzzle wall,00001316
-Colorful puzzle wall,00001317
-Blue playroom wall,00001318
-Pink playroom wall,00001319
-Concrete wall,0000131a
-White delicate-blooms wall,0000131b
-Monochromatic dotted wall,0000131c
-Pink flower-print wall,0000131d
-Golden wall,0000131e
-Pink blossoming wall,0000131f
-Blue blossoming wall,00001320
-Red delicate-blooms wall,00001321
-Green delicate-blooms wall,00001322
-Pastel dotted wall,00001323
-Red dotted wall,00001324
-Purple dotted wall,00001326
-Green blossoming wall,00001327
-Modern wood wall,00001328
-Autumn wall,00001329
-Rose wall,0000132a
-Purple-rose wall,0000132b
-Mod wall,0000132c
-Honeycomb-tile wall,0000132d
-Monochromatic-tile wall,0000132e
-Wooden-knot wall,0000132f
-Blue honeycomb-tile wall,00001330
-Green honeycomb-tile wall,00001331
-White honeycomb-tile wall,00001332
-Orange wall,00001333
-Apple wall,00001334
-Pear wall,00001335
-Peach wall,00001336
-Cherry wall,00001337
-White perforated-board wall,00001338
-Perforated-board wall,00001339
-Black perforated-board wall,0000133a
-Gray shanty wall,0000133b
-Pink shanty wall,0000133c
-Blue shanty wall,0000133d
-Brown shanty wall,0000133e
-White-brick wall,0000133f
-Red-brick wall,00001340
-Black-brick wall,00001341
-Aqua tile wall,00001342
-Colorful-tile wall,00001343
-Dark-chocolate wall,00001344
-White-chocolate wall,00001345
-Strawberry-chocolate wall,00001346
-Green flower-print wall,00001347
-Ancient wall,00001348
-White simple-cloth wall,0000134b
-Blue subway-tile wall,0000134c
-White subway-tile wall,0000134d
-Pink-striped wall,0000134f
-Gray-striped wall,00001350
-Blue-striped wall,00001351
-Yellow-striped wall,00001352
-Sakura-wood wall,00001353
-Blue painted-wood wall,00001354
-Green painted-wood wall,00001355
-Mush wall,0000142c
-Mortar wall,0000145f
-Stone wall,00001460
-Straw wall,00001461
-Office wall,00001462
-Street-art wall,00001465
-Dig-site wall,00001466
-Woodland wall,00001467
-Imperial wall,00001468
-Ramshackle wall,00001469
-Party wall,0000146a
-Dojo wall,0000146b
-Ruins wall,0000146c
-Garbage-heap wall,0000146d
-Jingle wall,0000146e
-Bunny Day wall,0000146f
-Cityscape wall,00001518
-Tree-lined wall,00001550
-Jungle wall,00001551
-Mossy-garden wall,00001552
-Backyard-fence wall,00001569
-Arched-window wall,0000156a
-Café-curtain wall,0000156b
-Meadow vista,0000156c
-Chain-link fence,0000156d
-Ocean-horizon wall,0000156e
-Rice-paddy wall,0000156f
-Desert vista,00001570
-Western vista,00001571
-Server-room wall,00001572
-Security-monitors wall,00001573
-Future-tech wall,00001576
-Laboratory wall,00001577
-Ski-slope wall,0000157a
-Stormy-night wall,0000157b
-Starry-sky wall,0000157c
-Sea view,0000157d
-Palace wall,0000157e
-Stadium wall,0000157f
-Sky wall,00001580
-Ice wall,00001581
-Magma-cavern wall,00001582
-Underwater wall,00001584
-Dungeon wall,00001585
-Sci-fi wall,00001586
-Ringside seating,00001588
-Summit wall,00001589
-Mangrove wall,0000158a
-Skull wall,00001590
-Standard tearoom wall,00001591
-Starry wall,00001598
-Basic wall,000015b7
-Tropical vista,0000161d
-Iceberg wall,0000161e
-Nook Inc. Wall,00001774
-Brown-brick wall,00001ac2
-Brown-crown wall,00001ac3
-Blue delicate-blooms wall,00001ac4
-Red perforated-board wall,00001ac5
-Green molded-panel wall,00001ac6
-Orange camo wall,00001ac7
-Red two-toned tile wall,00001ac8
-Peach two-toned tile wall,00001ac9
-Blue two-toned tile wall,00001aca
-Black two-toned tile wall,00001acb
-White hallway wall,00001acd
-Black hallway wall,00001ace
-Olive desert-tile wall,00001acf
-Purple desert-tile wall,00001ad0
-Yellow playroom wall,00001ad1
-Green playroom wall,00001ad2
-White-rose wall,00001ad4
-Blue-rose wall,00001ad5
-Red heart-pattern wall,00001ad6
-Yellow heart-pattern wall,00001ad7
-Yellow flower-print wall,00001ad8
-Blue flower-print wall,00001ad9
-Sepia puzzle wall,00001ada
-Purple puzzle wall,00001adb
-Botanical-tile wall,00001adc
-Black botanical-tile wall,00001add
-Green intricate wall,00001ade
-Red intricate wall,00001adf
-Blue tile wall,00001bd7
-Forest wall,00001c13
-Cherry-blossom-trees wall,00001c25
-Cute white wall,00001c2f
-Cute red wall,00001c30
-Cute blue wall,00001c31
-Cute yellow wall,00001c32
-Blue diner wall,00001c49
-Pink diner wall,00001c4a
-Gray diner wall,00001c4b
-Brown diner wall,00001c4c
-Pink quilt wall,00001c6a
-Purple quilt wall,00001c6b
-Yellow quilt wall,00001c6c
-Blue quilt wall,00001c6d
-Chic tearoom wall,00002ba8
-Soothing tearoom wall,00002ba9
-Modern tearoom wall,00002baa
-Harmonious wall,00002bac
-Misty-garden wall,00002e8b
+Item Hex,Item Name
+000012bb,Common wall
+000012c1,Steel-frame wall
+000012c2,Pink painted-wood wall
+000012c3,White painted-wood wall
+000012c4,Brown herringbone wall
+000012c5,Chocolate herringbone wall
+000012c6,Brown hallway wall
+000012c7,Chocolate hallway wall
+000012c8,Yellow-paint wall
+000012c9,Orange-paint wall
+000012cb,Blue-paint wall
+000012cc,Green-paint wall
+000012cd,Rustic-stone wall
+000012ce,Blue-crown wall
+000012cf,Black-crown wall
+000012d0,Pink-crown wall
+000012d1,Beige art-deco wall
+000012d2,Red art-deco wall
+000012d3,Screen wall
+000012d4,Gold-screen wall
+000012d5,Circuit-board wall
+000012d9,Shutter wall
+000012da,White botanical-tile wall
+000012db,Brown botanical-tile wall
+000012dc,Chic wall
+000012de,Lattice wall
+000012df,Beige blossoming wall
+000012e0,Wavy-tile wall
+000012e1,Bamboo wall
+000012e2,Beige desert-tile wall
+000012e3,Blue desert-tile wall
+000012e4,Bamboo-screen wall
+000012e5,Classic-library wall
+000012e6,Manga-library wall
+000012e7,Bank-vault wall
+000012e8,Cabin wall
+000012e9,Crepe-design wall
+000012eb,Construction-site wall
+000012ec,Stacked-wood wall
+000012ed,Rammed-earth wall
+000012ee,Groovy wall
+000012ef,Retro flower-print wall
+000012f0,Blue intricate wall
+000012f1,Yellow intricate wall
+000012f2,Ivy wall
+000012f3,Rock-climbing wall
+000012f4,Skyscraper wall
+000012f5,Bamboo-grove wall
+000012f6,Paintball wall
+000012f7,Snowflake wall
+000012f8,Dirt-clod wall
+000012f9,Old wallpaper
+000012fa,Wild-wood wall
+000012fb,Wooden-mosaic wall
+000012fc,Dark wooden-mosaic wall
+000012fd,Stately wall
+000012fe,Mosaic-tile wall
+000012ff,Shoji screen
+00001300,Modern shoji-screen wall
+00001301,Honeycomb wall
+00001302,Exquisite wall
+00001303,Yellow simple-cloth wall
+00001304,Pink simple-cloth wall
+00001305,Blue simple-cloth wall
+00001306,Orange molded-panel wall
+00001307,Blue molded-panel wall
+00001308,Gray molded-panel wall
+00001309,Abstract wall
+0000130a,Blue heart-pattern wall
+0000130b,Pink heart-pattern wall
+0000130c,Industrial wall
+0000130d,Beaded-curtain wall
+0000130e,Heavy-curtain wall
+0000130f,Marine pop wall
+00001310,Butterflies wall
+00001311,Kisses wall
+00001312,Blackboard wall
+00001313,Camo wall
+00001314,Blue camo wall
+00001315,Purple camo wall
+00001316,Pastel puzzle wall
+00001317,Colorful puzzle wall
+00001318,Blue playroom wall
+00001319,Pink playroom wall
+0000131a,Concrete wall
+0000131b,White delicate-blooms wall
+0000131c,Monochromatic dotted wall
+0000131d,Pink flower-print wall
+0000131e,Golden wall
+0000131f,Pink blossoming wall
+00001320,Blue blossoming wall
+00001321,Red delicate-blooms wall
+00001322,Green delicate-blooms wall
+00001323,Pastel dotted wall
+00001324,Red dotted wall
+00001326,Purple dotted wall
+00001327,Green blossoming wall
+00001328,Modern wood wall
+00001329,Autumn wall
+0000132a,Rose wall
+0000132b,Purple-rose wall
+0000132c,Mod wall
+0000132d,Honeycomb-tile wall
+0000132e,Monochromatic-tile wall
+0000132f,Wooden-knot wall
+00001330,Blue honeycomb-tile wall
+00001331,Green honeycomb-tile wall
+00001332,White honeycomb-tile wall
+00001333,Orange wall
+00001334,Apple wall
+00001335,Pear wall
+00001336,Peach wall
+00001337,Cherry wall
+00001338,White perforated-board wall
+00001339,Perforated-board wall
+0000133a,Black perforated-board wall
+0000133b,Gray shanty wall
+0000133c,Pink shanty wall
+0000133d,Blue shanty wall
+0000133e,Brown shanty wall
+0000133f,White-brick wall
+00001340,Red-brick wall
+00001341,Black-brick wall
+00001342,Aqua tile wall
+00001343,Colorful-tile wall
+00001344,Dark-chocolate wall
+00001345,White-chocolate wall
+00001346,Strawberry-chocolate wall
+00001347,Green flower-print wall
+00001348,Ancient wall
+0000134b,White simple-cloth wall
+0000134c,Blue subway-tile wall
+0000134d,White subway-tile wall
+0000134f,Pink-striped wall
+00001350,Gray-striped wall
+00001351,Blue-striped wall
+00001352,Yellow-striped wall
+00001353,Sakura-wood wall
+00001354,Blue painted-wood wall
+00001355,Green painted-wood wall
+0000142c,Mush wall
+0000145f,Mortar wall
+00001460,Stone wall
+00001461,Straw wall
+00001462,Office wall
+00001465,Street-art wall
+00001466,Dig-site wall
+00001467,Woodland wall
+00001468,Imperial wall
+00001469,Ramshackle wall
+0000146a,Party wall
+0000146b,Dojo wall
+0000146c,Ruins wall
+0000146d,Garbage-heap wall
+0000146e,Jingle wall
+0000146f,Bunny Day wall
+00001518,Cityscape wall
+00001550,Tree-lined wall
+00001551,Jungle wall
+00001552,Mossy-garden wall
+00001569,Backyard-fence wall
+0000156a,Arched-window wall
+0000156b,Café-curtain wall
+0000156c,Meadow vista
+0000156d,Chain-link fence
+0000156e,Ocean-horizon wall
+0000156f,Rice-paddy wall
+00001570,Desert vista
+00001571,Western vista
+00001572,Server-room wall
+00001573,Security-monitors wall
+00001576,Future-tech wall
+00001577,Laboratory wall
+0000157a,Ski-slope wall
+0000157b,Stormy-night wall
+0000157c,Starry-sky wall
+0000157d,Sea view
+0000157e,Palace wall
+0000157f,Stadium wall
+00001580,Sky wall
+00001581,Ice wall
+00001582,Magma-cavern wall
+00001584,Underwater wall
+00001585,Dungeon wall
+00001586,Sci-fi wall
+00001588,Ringside seating
+00001589,Summit wall
+0000158a,Mangrove wall
+00001590,Skull wall
+00001591,Standard tearoom wall
+00001598,Starry wall
+000015b7,Basic wall
+0000161d,Tropical vista
+0000161e,Iceberg wall
+00001774,Nook Inc. Wall
+00001ac2,Brown-brick wall
+00001ac3,Brown-crown wall
+00001ac4,Blue delicate-blooms wall
+00001ac5,Red perforated-board wall
+00001ac6,Green molded-panel wall
+00001ac7,Orange camo wall
+00001ac8,Red two-toned tile wall
+00001ac9,Peach two-toned tile wall
+00001aca,Blue two-toned tile wall
+00001acb,Black two-toned tile wall
+00001acd,White hallway wall
+00001ace,Black hallway wall
+00001acf,Olive desert-tile wall
+00001ad0,Purple desert-tile wall
+00001ad1,Yellow playroom wall
+00001ad2,Green playroom wall
+00001ad4,White-rose wall
+00001ad5,Blue-rose wall
+00001ad6,Red heart-pattern wall
+00001ad7,Yellow heart-pattern wall
+00001ad8,Yellow flower-print wall
+00001ad9,Blue flower-print wall
+00001ada,Sepia puzzle wall
+00001adb,Purple puzzle wall
+00001adc,Botanical-tile wall
+00001add,Black botanical-tile wall
+00001ade,Green intricate wall
+00001adf,Red intricate wall
+00001bd7,Blue tile wall
+00001c13,Forest wall
+00001c25,Cherry-blossom-trees wall
+00001c2f,Cute white wall
+00001c30,Cute red wall
+00001c31,Cute blue wall
+00001c32,Cute yellow wall
+00001c49,Blue diner wall
+00001c4a,Pink diner wall
+00001c4b,Gray diner wall
+00001c4c,Brown diner wall
+00001c6a,Pink quilt wall
+00001c6b,Purple quilt wall
+00001c6c,Yellow quilt wall
+00001c6d,Blue quilt wall
+00002ba8,Chic tearoom wall
+00002ba9,Soothing tearoom wall
+00002baa,Modern tearoom wall
+00002bac,Harmonious wall
+00002e8b,Misty-garden wall

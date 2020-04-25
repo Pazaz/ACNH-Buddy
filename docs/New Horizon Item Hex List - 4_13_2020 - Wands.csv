@@ -1,22 +1,22 @@
-Item Name,Item Hex
-Star wand,000009f0
-Hyacinth wand,000013db
-Windflower wand,000013dc
-Tulip wand,000013dd
-Pansy wand,000013e3
-Cosmos wand,000013e4
-Rose wand,000013e5
-Lily wand,000013e6
-Mums wand,000013e7
-Wand,00001da0
-Ice wand,00001da1
-Shell wand,00001da2
-Tree-branch wand,00001da3
-Mushroom wand,00001da4
-Cherry-blossom wand,00001da5
-Bamboo wand,00001da6
-Golden wand,00001da7
-Iron wand,00001da8
-Bug wand,00002241
-Fish wand,00002242
-Bunny Day wand,00003122
+Item Hex,Item Name
+000009f0,Star wand
+000013db,Hyacinth wand
+000013dc,Windflower wand
+000013dd,Tulip wand
+000013e3,Pansy wand
+000013e4,Cosmos wand
+000013e5,Rose wand
+000013e6,Lily wand
+000013e7,Mums wand
+00001da0,Wand
+00001da1,Ice wand
+00001da2,Shell wand
+00001da3,Tree-branch wand
+00001da4,Mushroom wand
+00001da5,Cherry-blossom wand
+00001da6,Bamboo wand
+00001da7,Golden wand
+00001da8,Iron wand
+00002241,Bug wand
+00002242,Fish wand
+00003122,Bunny Day wand

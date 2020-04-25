@@ -1,10 +1,10 @@
-Item Name,Item Hex
-Sea snail,0000055e
-Venus comb,0000055f
-Conch,00000560
-Sand dollar,00000563
-Coral,00000564
-Giant clam,00000565
-Cowrie,00000566
-Summer shell,0000175e
-Manila clam,00000a07
+Item Hex,Item Name
+0000055e,Sea snail
+0000055f,Venus comb
+00000560,Conch
+00000563,Sand dollar
+00000564,Coral
+00000565,Giant clam
+00000566,Cowrie
+0000175e,Summer shell
+00000a07,Manila clam
